@@ -36,7 +36,7 @@ Passionné par la conception logicielle et l'algorithmique, j'ai un intérêt pa
 
 ## Expérience Professionnelle
 
-**Développeur Logiciel (Stage de 10 semaines)** - *Euro Information - Groupe Crédit Mutuel Alliance Fédérale* | 2026
+**Développeur Logiciel (Stage de 10 semaines)** | *Euro Information - Groupe Crédit Mutuel Alliance Fédérale* | 2026
 - Conception et implémentation de scripts d'automatisation de tests à l'aide de Playwright.
 - Développement d'outils d'interface utilisateur en C# avec l'aide du framework DevBooster.
 
